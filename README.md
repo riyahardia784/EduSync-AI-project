@@ -77,32 +77,6 @@ cd frontend
 npm run dev
 ```
 
----
-
-### 💻 **Folder Structure**
-
-```
-student-dashboard/
-├── backend/
-│   ├── controller/
-│   │   └── student.controller.js
-│   ├── service/
-│   │   └── student.service.js
-│   └── server.js
-│
-├── frontend/
-│   ├── src/
-│   │   ├── pages/
-│   │   │   └── Student.jsx
-│   │   ├── components/
-│   │   │   └── Header.jsx
-│   │   └── App.jsx
-│   └── index.jsx
-│
-└── README.md
-```
-
----
 
 ### 🧩 **Core File: `Student.jsx`**
 
