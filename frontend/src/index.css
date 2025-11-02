@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card{
+       background-image: linear-gradient(to right,#731b95, #5e187a,#3c0d4f );
+}
