@@ -45,7 +45,7 @@ It allows students to **summarize lectures**, **extract key points**, and **chat
 #### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/master-student-dashboard.git
+git clone  https://github.com/riyahardia784/EduSync-AI-project
 cd master-student-dashboard
 ```
 
