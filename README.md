@@ -57,9 +57,10 @@ npm install
 
 #### 3️⃣ Add Environment Variable
 
-Create a `.env` file in the root directory:
+Create a `.env` file in the backend  directory:
 
 ```
+ PORT=4000
 API_KEY=your_gemini_api_key_here
 ```
 
