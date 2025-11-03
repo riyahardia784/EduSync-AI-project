@@ -46,7 +46,7 @@ It allows students to **summarize lectures**, **extract key points**, and **chat
 
 ```bash
 git clone  https://github.com/riyahardia784/EduSync-AI-project
-cd master-student-dashboard
+cd EduSync-AI
 ```
 
 #### 2️⃣ Install Dependencies
