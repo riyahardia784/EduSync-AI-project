@@ -78,7 +78,8 @@ npx nodemon
 cd frontend
 npm install
 npm run dev
-```
+
+```open Chrome run http://localhost:5173open chrome type 
 
 
 ### 🧩 **Core File: `Student.jsx`**
