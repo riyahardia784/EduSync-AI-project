@@ -2,7 +2,7 @@
 
 ### 📚 Overview
 
-**MASTER – Student Dashboard** is an AI-powered web app built to help students **learn smarter**.
+**EduSync** is an AI-powered web app built to help students **learn smarter**.
 It allows students to **summarize lectures**, **extract key points**, and **chat with a built-in AI Mentor Bot** — all from one interactive dashboard.
 
 ---
@@ -67,13 +67,15 @@ API_KEY=your_gemini_api_key_here
 
 ```bash
 cd backend
-npm start
+npm install
+npx nodemon
 ```
 
 #### 5️⃣ Run Frontend
 
 ```bash
 cd frontend
+npm install
 npm run dev
 ```
 
