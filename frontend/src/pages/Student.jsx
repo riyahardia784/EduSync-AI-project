@@ -14,7 +14,7 @@ function Student() {
   const [messages, setMessages] = useState([]);
   const [question, setQuestion] = useState("");
 
-  const BASE_URL = import.meta.env.VITE_BASE_URL || "http://localhost:4000";
+  const BASE_URL = import.meta.env.VITEBASE_URL || "http://localhost:4000";
 
   const handleSummary = async () => {
     if (!text.trim()) return alert("Please enter some lecture text!");
