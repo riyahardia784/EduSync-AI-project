@@ -1,2 +1,7 @@
 node_module
+frontend/node_modules/
+Backend/node_modules/
 .env
+.env.local
+.env.development
+.env.production
